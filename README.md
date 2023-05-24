@@ -1,4 +1,4 @@
-### Hi I'm a Technology Student
+### Hi, I'm a Technology Student
 - 🤓 I’m currently learning **HTML, CSS, JavaScript and Java**
 - 📚 Majoring **Systems Analysis and Development**
 - 📌 I'm looking for an **Internship**
