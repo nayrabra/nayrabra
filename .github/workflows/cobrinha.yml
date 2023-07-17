@@ -16,6 +16,7 @@ jobs:
           github_user_name: nayrabra
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          using: 'node16'
       - run: git status
       - name: Push changes
         uses: ad-m/github-push-action@master
