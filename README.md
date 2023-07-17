@@ -13,4 +13,8 @@
   <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nayrabra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
  <div>
 
-![snake gif](https://github.com/nayrabra/nayrabra/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/nayrabra/nayrabra/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
